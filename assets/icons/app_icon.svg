@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <!-- Gradiente de fundo do ícone -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="50%" stop-color="#1E293B" />
+      <stop offset="100%" stop-color="#090D16" />
+    </linearGradient>
+
+    <!-- Gradiente do anel de hábitos -->
+    <linearGradient id="ringGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#10B981" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Gradiente do checkmark / folha de crescimento -->
+    <linearGradient id="checkGradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="40%" stop-color="#10B981" />
+      <stop offset="85%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#6EE7B7" />
+    </linearGradient>
+
+    <!-- Gradiente da folha secundária -->
+    <linearGradient id="leafGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6EE7B7" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+
+    <!-- Filtro de brilho sutil (glow) -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="24" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Fundo Squircle com bordas suaves de aplicativo moderno -->
+  <rect x="32" y="32" width="960" height="960" rx="224" ry="224" fill="url(#bgGradient)" stroke="#334155" stroke-width="4" />
+
+  <!-- Anel externo sutil representando o ciclo diário de 7 hábitos -->
+  <circle cx="512" cy="512" r="340" fill="none" stroke="url(#ringGradient)" stroke-width="20" stroke-linecap="round" stroke-dasharray="1400 200" />
+
+  <!-- Efeito de brilho em segundo plano atrás do checkmark -->
+  <circle cx="512" cy="512" r="180" fill="#10B981" opacity="0.12" filter="url(#glow)" />
+
+  <!-- Folha brotando no topo direito do checkmark (Crescimento e Bons Hábitos) -->
+  <path d="M 640 330 C 670 260 760 250 800 240 C 790 290 770 380 700 410 C 660 430 630 380 640 330 Z" fill="url(#leafGradient)" opacity="0.9" />
+
+  <!-- Segunda pequena folha (vitalidade) -->
+  <path d="M 670 410 C 720 400 770 430 790 470 C 740 480 690 460 670 410 Z" fill="#34D399" opacity="0.75" />
+
+  <!-- O Checkmark icônico de conclusão diária fundido à planta -->
+  <path d="M 330 520 L 460 650 C 475 665 500 665 515 650 L 730 360 C 742 345 740 322 724 310 C 708 298 685 300 672 316 L 488 560 L 388 460 C 374 446 352 446 338 460 C 324 474 324 496 338 510 Z"
+        fill="url(#checkGradient)"
+        filter="url(#glow)" />
+
+  <!-- Ponto de orvalho / gota d'água no checkmark (representando clareza e hábitos saudáveis) -->
+  <circle cx="710" cy="270" r="18" fill="#E0F2FE" opacity="0.9" />
+</svg>
+
