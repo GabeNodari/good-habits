@@ -1,61 +1,286 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
-  <defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1024 1024"
+   width="1024"
+   height="1024"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="app_icon.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.68362863"
+     inkscape:cx="607.05474"
+     inkscape:cy="588.76996"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15" />
+  <defs
+     id="defs12">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect27"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.0767612,0,1 @ F,0,0,1,0,1.8780235,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,114.99702,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,4.9166742,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,4.8017141,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,12.64347,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.3436346,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect26"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect25"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect24"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect23"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <!-- Gradiente de fundo do ícone -->
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F172A" />
-      <stop offset="50%" stop-color="#1E293B" />
-      <stop offset="100%" stop-color="#090D16" />
+    <linearGradient
+       id="bgGradient"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#0F172A"
+         id="stop1" />
+      <stop
+         offset="50%"
+         stop-color="#1E293B"
+         id="stop2" />
+      <stop
+         offset="100%"
+         stop-color="#090D16"
+         id="stop3" />
     </linearGradient>
-
     <!-- Gradiente do anel de hábitos -->
-    <linearGradient id="ringGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#34D399" stop-opacity="0.3" />
-      <stop offset="50%" stop-color="#10B981" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.2" />
+    <linearGradient
+       id="ringGradient"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#34D399"
+         stop-opacity="0.3"
+         id="stop4" />
+      <stop
+         offset="50%"
+         stop-color="#10B981"
+         stop-opacity="0.8"
+         id="stop5" />
+      <stop
+         offset="100%"
+         stop-color="#06B6D4"
+         stop-opacity="0.2"
+         id="stop6" />
     </linearGradient>
-
     <!-- Gradiente do checkmark / folha de crescimento -->
-    <linearGradient id="checkGradient" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#059669" />
-      <stop offset="40%" stop-color="#10B981" />
-      <stop offset="85%" stop-color="#34D399" />
-      <stop offset="100%" stop-color="#6EE7B7" />
+    <linearGradient
+       id="checkGradient"
+       x1="245.04774"
+       y1="768.18571"
+       x2="751.75461"
+       y2="261.47884"
+       gradientTransform="matrix(1.0686314,0,0,0.93577634,8.7766945,-14.627817)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#059669"
+         id="stop7" />
+      <stop
+         offset="40%"
+         stop-color="#10B981"
+         id="stop8" />
+      <stop
+         offset="85%"
+         stop-color="#34D399"
+         id="stop9" />
+      <stop
+         offset="100%"
+         stop-color="#6EE7B7"
+         id="stop10" />
     </linearGradient>
-
     <!-- Gradiente da folha secundária -->
-    <linearGradient id="leafGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#6EE7B7" />
-      <stop offset="100%" stop-color="#10B981" />
+    <linearGradient
+       id="leafGradient"
+       x1="662.37679"
+       y1="231.18993"
+       x2="830.486"
+       y2="399.29914"
+       gradientTransform="matrix(0.87099928,0,0,1.0381075,66.821034,-1.5515152)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#6EE7B7"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#10B981"
+         id="stop12" />
     </linearGradient>
-
     <!-- Filtro de brilho sutil (glow) -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="24" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    <filter
+       id="glow"
+       x="-0.15946733"
+       y="-0.15946733"
+       width="1.3189347"
+       height="1.3189347">
+      <feGaussianBlur
+         stdDeviation="23.920099"
+         result="blur"
+         id="feGaussianBlur12" />
+      <feComposite
+         in="SourceGraphic"
+         in2="blur"
+         operator="over"
+         id="feComposite12" />
+    </filter>
+    <filter
+       id="filter17"
+       x="-0.0003142543"
+       y="-0.00036995255"
+       width="1.0006285"
+       height="1.0007399">
+      <feGaussianBlur
+         stdDeviation="0.05534189"
+         result="blur"
+         id="feGaussianBlur17" />
+      <feComposite
+         in="SourceGraphic"
+         in2="blur"
+         operator="over"
+         id="feComposite17" />
     </filter>
   </defs>
-
   <!-- Fundo Squircle com bordas suaves de aplicativo moderno -->
-  <rect x="32" y="32" width="960" height="960" rx="224" ry="224" fill="url(#bgGradient)" stroke="#334155" stroke-width="4" />
-
+  <rect
+     x="32"
+     y="32"
+     width="960"
+     height="960"
+     rx="224"
+     ry="224"
+     fill="url(#bgGradient)"
+     stroke="#334155"
+     stroke-width="4"
+     id="rect12"
+     style="display:inline" />
   <!-- Anel externo sutil representando o ciclo diário de 7 hábitos -->
-  <circle cx="512" cy="512" r="340" fill="none" stroke="url(#ringGradient)" stroke-width="20" stroke-linecap="round" stroke-dasharray="1400 200" />
-
+  <circle
+     cx="512"
+     cy="512"
+     r="340"
+     fill="none"
+     stroke="url(#ringGradient)"
+     stroke-width="20"
+     stroke-linecap="round"
+     stroke-dasharray="1400, 200"
+     id="circle12"
+     style="display:inline" />
   <!-- Efeito de brilho em segundo plano atrás do checkmark -->
-  <circle cx="512" cy="512" r="180" fill="#10B981" opacity="0.12" filter="url(#glow)" />
-
+  <circle
+     cx="512"
+     cy="512"
+     r="180"
+     fill="#10b981"
+     opacity="0.12"
+     filter="url(#glow)"
+     id="circle13"
+     style="display:inline" />
   <!-- Folha brotando no topo direito do checkmark (Crescimento e Bons Hábitos) -->
-  <path d="M 640 330 C 670 260 760 250 800 240 C 790 290 770 380 700 410 C 660 430 630 380 640 330 Z" fill="url(#leafGradient)" opacity="0.9" />
-
+  <path
+     d="m 790.17383,226.44922 c -36.16764,10 -109.41718,51.6247 -141.06446,99.73633 -3.22357,4.90062 -4.84437,9.08836 -5.55269,13.97342 -0.48127,3.31919 2.22965,5.59292 5.51471,4.90647 1.09508,-0.22883 2.17315,-0.46777 3.06772,-0.69229 1.00518,-0.25228 2.57878,-0.84864 3.55196,-1.20732 70.26945,-25.899 -158.91373,202.20727 -158.91373,202.20727 0,0 -79.57023,-57.51651 -100,-100 -6.52221,-13.56326 -51.76568,-57.16302 -111.32586,-45.56123 -0.62525,0.12179 -1.24973,0.24509 -1.87336,0.36982 8.64134,21.60334 22.88341,37.60752 40.30592,48.01016 2.33119,1.3919 2.22496,3.19459 -0.25795,4.29332 -25.71796,11.38062 -47.30036,33.41324 -58.72375,59.2805 23.97402,5.42872 47.9476,2.75304 68.35867,-8.02852 2.34461,-1.23847 5.68913,-0.819 7.54544,1.07488 L 468.77734,635.3731 c 14.84892,15.14958 40,15 55,0 L 674.75929,424.05084 c 4.05934,-5.68166 6.69946,-4.44133 8.66375,2.222 9.80877,33.27371 69.07675,40.88345 106.57696,33.38341 -16.02025,-32.0405 -51.28955,-57.66539 -90.38867,-61.45508 -0.19978,-0.0194 -0.32454,-0.0768 -0.40575,-0.15603 -0.48197,-0.47036 -0.19063,-1.18662 0.45757,-1.54564 0.0286,-0.0158 0.0588,-0.0326 0.0908,-0.0502 0.60629,-0.28737 1.20861,-0.58061 1.80664,-0.87891 l 0.002,-0.002 c 61.83057,-30.84313 79.65615,-119.59874 88.61133,-169.11914 z"
+     style="display:inline;opacity:1;fill:#17cf92;stroke-width:0.95089"
+     id="path23"
+     sodipodi:nodetypes="sssscasccccccccsccccss"
+     inkscape:path-effect="#path-effect27"
+     inkscape:original-d="m 790.17383,226.44922 c -36.16764,10 -109.41718,51.6247 -141.06446,99.73633 -4.46906,6.79407 -5.85756,12.21796 -6.00487,20.02934 0,0 8.7769,-1.55321 10.83373,-2.37503 75.72154,-30.25489 -157.16089,201.53324 -157.16089,201.53324 0,0 -79.57023,-57.51651 -100,-100 -3.93656,-8.18604 -1.16659,-24.98111 -3.02083,-27.08217 -25.00657,-28.33529 -69.41073,-26.26277 -110.17839,-18.10924 9.33951,23.34877 25.22133,40.15707 44.58985,50.42188 -27.7072,10.70468 -51.17584,33.78585 -63.26563,61.1621 25.63275,5.80433 51.26499,2.34399 72.54297,-10.38281 L 468.77734,635.3731 c 14.84892,15.14958 40,15 55,0 L 682.10937,413.76329 c -2.79273,43.83385 66.07922,54.25524 107.89063,45.89296 -16.02025,-32.0405 -51.28955,-57.66539 -90.38867,-61.45508 -0.95342,-0.0924 -0.19818,-1.0512 -1.15593,-1.11736 1.00024,-0.45383 0.29124,-0.0776 1.29851,-0.63454 0.60629,-0.28737 1.20861,-0.58061 1.80664,-0.87891 l 0.002,-0.002 c 61.83057,-30.84313 79.65615,-119.59874 88.61133,-169.11914 z" />
   <!-- Segunda pequena folha (vitalidade) -->
-  <path d="M 670 410 C 720 400 770 430 790 470 C 740 480 690 460 670 410 Z" fill="#34D399" opacity="0.75" />
-
   <!-- O Checkmark icônico de conclusão diária fundido à planta -->
-  <path d="M 330 520 L 460 650 C 475 665 500 665 515 650 L 730 360 C 742 345 740 322 724 310 C 708 298 685 300 672 316 L 488 560 L 388 460 C 374 446 352 446 338 460 C 324 474 324 496 338 510 Z"
-        fill="url(#checkGradient)"
-        filter="url(#glow)" />
-
   <!-- Ponto de orvalho / gota d'água no checkmark (representando clareza e hábitos saudáveis) -->
-  <circle cx="710" cy="270" r="18" fill="#E0F2FE" opacity="0.9" />
 </svg>
-
